@@ -1,0 +1,64 @@
+* {
+    margin: 5px;
+}
+
+html, body {
+    overflow-x: hidden;
+}
+
+#logo {
+    height: 50px;
+    width: 50px;
+}
+
+.full-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: darkgoldenrod;
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-image: url(/images/placeit2.png);
+    height: 500px;
+}
+.colors-wrapper {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.color {
+    margin-right: 20px;
+    text-align: center;
+}
+
+.color img {
+    margin-top: 10px;
+    width: 100px;
+    height: auto;
+}
+
+#typo {
+    height: 334px;
+    width: 190px;
+}
+
+.hifi {
+    padding: 20px;
+    height: 575px;
+    width: 265px;
+}
+
+.col {
+    width: 100%;
+}
+
+
