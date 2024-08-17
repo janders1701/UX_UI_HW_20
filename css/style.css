@@ -3,7 +3,26 @@
 }
 
 html, body {
+    margin-left: 20px;
+    margin-right: 20px;
     overflow-x: hidden;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+p{
+    font-size: 12px;
+
 }
 
 #logo {
@@ -60,5 +79,4 @@ html, body {
 .col {
     width: 100%;
 }
-
 
